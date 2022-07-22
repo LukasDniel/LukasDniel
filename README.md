@@ -5,7 +5,7 @@ Here's some of what I love to do.
 <img align="center" width="45" alt="about" src="https://user-images.githubusercontent.com/60492975/180334286-6ca7aa12-c985-42f5-ad18-398af59e3bdb.png"/>
 
 
-<img align="right" width="300" height="305" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
+<img align="right" width="300" height="270" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
 
 ```JavaScript
 function FullStack(){
