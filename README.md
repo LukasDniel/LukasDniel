@@ -54,7 +54,7 @@ function FullStack(){
 [linkedin]: https://www.linkedin.com/in/lucas-faria-757321129/
 <br>
 
-#### Rede Sociais!
+#### **Social Networks!**
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
