@@ -56,8 +56,7 @@ function FullStack(){
 
 #### **Social Networks!**
 
-🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
+<img align="center" width="15" height="15" src="https://user-images.githubusercontent.com/60492975/180339465-52e33424-7046-4d21-a70c-e39b8a072e9e.png" alt="Lukas Daniel site"/> [website][website] **|** 
+<img align="center" width="15" height="15" src="https://user-images.githubusercontent.com/60492975/180339115-00f9e7e6-7d1d-4d6f-91c9-c0476dbe4701.png" alt="Lukas Daniel youtube"/> [youtube][youtube] **|** 
+<img align="center" width="15" height="15" src="https://user-images.githubusercontent.com/60492975/180338985-965eb0f7-3a22-4501-97b7-3fbc4ded3772.png" alt="Lukas Daniel insta"/> [instagram][instagram] **|** 
+<img align="center" width="15" height="15" src="https://user-images.githubusercontent.com/60492975/180339252-4a604cf0-7dbe-4a34-a08e-b15ce462f246.png" alt="Lukas Daniel linkedin"/> [linkedin][linkedin]
