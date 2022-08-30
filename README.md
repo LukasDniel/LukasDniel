@@ -13,7 +13,7 @@ function FullStack(){
 
  const action = "Full Stack Developer"
  
- let primarySkillset = {
+ let primarySkillSet = {
    mobile: 'React Native',
    Web: 'React.Js',
    Desktop: 'Python'
